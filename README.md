@@ -31,5 +31,5 @@ Analyze the potential impact of climate change on wheat yields across different 
 Identify potential worst-case scenarios and estimate the magnitude of yield decrease (up to 51% in your findings).
 
 **Result**
-!(https://github.com/RajulUpadhyay/Climate-Variability-and-Change-Impact-on-Crop-Yield/blob/main/Change_Impact.png?raw=true)
+!![plot](https://github.com/RajulUpadhyay/Climate-Variability-and-Change-Impact-on-Crop-Yield/blob/main/Change_Impact.png)
 
